@@ -20,4 +20,6 @@ Excel Macros (.xlsm) – Enables dynamic processing.
 
 PivotTables & Charts – For summarizing and visualizing trends.
 
-In order to see the VBA functions used, Fn+Alt+F11 or just Alt+F11
+### How to check?
+Simply download the .xlsm file and click Alt+F11 or Fn+Alt+F11 in order to check the VBA function
+The dataset used is based on comments from the Barbie Movie trailer (the comments can be seen on the Data tab)
